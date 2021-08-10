@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Xu
-- 👀 I’m a graduate of Virginia Tech majoring in Computer Science
-- 🌱 This is my personal github contains serval project repository
+- 👩‍🎓 I’m a graduate student of Virginia Tech majoring in Computer Science 
+- 🌱 This is my personal github account.
 - 💞️ I’m actively looking for a new graduate/entry level developer position
 - 📫 I can be reached at www.linkedin.com/in/xu-wang-vt
 
